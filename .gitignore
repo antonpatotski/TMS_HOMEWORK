@@ -1,0 +1,11 @@
+/.idea/.gitignore
+/index.html
+/css/main.css
+/js/main.js
+/js/vendor/modernizr-3.11.2.min.js
+/.idea/modules.xml
+/css/normalize.css
+/.idea/php.xml
+/js/plugins.js
+/.idea/TMS.iml
+/.idea/vcs.xml
